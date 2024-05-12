@@ -1,0 +1,8 @@
+# image upload google drive to qrcode
+ 
+python=3.10
+google-api-python-client
+qrcode
+
+References
+    https://swf.com.tw/?p=1776
